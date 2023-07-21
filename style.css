@@ -1,0 +1,45 @@
+*{    font-family: Gabriola, Times, serif;
+    background-color: rgb(67, 20, 82);
+    color: floralwhite;
+  
+}
+.container{
+   
+    width: 800px;
+    height: 900px;
+    text-align: center;
+    margin: 10px auto;
+    padding: 10px;
+    background-image: url("https://i.pinimg.com/originals/ac/54/a1/ac54a128942c750799c2c1fe144d2467.jpg");
+    background-color: rgba(3, 44, 41, 0.5);
+    border-radius: 8px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+   
+
+}
+.inp{
+    padding: 10px;
+    font-size: large;
+}
+.btn{
+   
+    margin: 2px;
+background-color: rgb(67, 12, 104);
+color: cornsilk;
+}
+.main{
+    padding: 10px;
+    background-color: rgb(229, 202, 247);
+    margin: 10px;
+    font-size:large;
+}
+
+button{
+    background-color: rgb(217, 203, 235);
+    color: rgb(65, 7, 77);
+    margin: 5px;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: large;
+
+}
